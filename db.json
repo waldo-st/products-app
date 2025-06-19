@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Ballon",
+            "quantity": "2",
+            "selected": true,
+            "available": true
+        },
+        {
+            "id": 2,
+            "name": "Table",
+            "quantity": "12",
+            "selected": true,
+            "available": true
+        },
+        {
+            "id": 3,
+            "name": "Chaise",
+            "quantity": "23",
+            "selected": true,
+            "available": true
+        },
+        {
+            "id": 4,
+            "name": "Iphone 16",
+            "quantity": "13",
+            "selected": true,
+            "available": true
+        }
+    ]
+}
